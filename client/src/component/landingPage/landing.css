@@ -1,0 +1,19 @@
+.main_container{
+    background: url("./landing2.4.jpg");
+    /* background-repeat:no-repeat; */
+    background-size: cover;
+    height:100vh; 
+    }
+    
+.titel{
+    top: 2%;
+    left: 33%;
+    max-width: 370px;
+    font-size: 2.3rem;
+    background: none;
+    padding: 0.65rem 0.6rem;
+    text-shadow: 10px 10px 15px black;
+    position: relative;
+    color: green;
+}
+   

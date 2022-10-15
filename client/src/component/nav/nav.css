@@ -1,0 +1,35 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+ .imgLogo{
+    width: 350px;
+    height: 60px;
+} 
+/* .img {
+    width: 15vw;
+    height: 10vh;
+    border-radius: 5px;
+    margin-left: 5vw;
+} */
+
+.btnCreated {
+    margin-top: 3vh;
+    margin-right: 8.9vw;
+    background-color: #ff00004d;
+    color:white;
+    border: 45px;
+    border-radius: 45px;
+    box-shadow: 1px 7px 15px 10px red;
+    font-size: 2.5rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btnCreated:hover {
+    color: white;
+    background-color: black;
+}
